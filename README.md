@@ -8,7 +8,7 @@ A simple HTML project built as part of the freeCodeCamp **Responsive Web Design*
 - Creating a beginner-friendly layout
 
 ## 🔗 Live Demo
-[View on GitHub Pages](https://aqsanazirbuilds.github.io/CatPhotoApp/)
+https://aqsanazirbuilds.github.io/CatPhotoApp/
 
 ## 💻 Code Repository
 https://github.com/AqsaNazirBuilds/CatPhotoApp
